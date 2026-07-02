@@ -14,7 +14,6 @@
 - 🩺 Building **MediTriage AI** — an AI-powered smart triage & adaptive patient intake system as my flagship final-year project
 - 💼 Past intern experience in **AI** (Networkers Home) and **Digital Marketing** (Bream Solutions)
 - 🌱 Currently deepening my skills in full-stack development and applied AI
-- 📫 Reach me via the links below
 
 ---
 
@@ -48,7 +47,6 @@
 |---|---|
 | 🩺 **[MediTriage AI](#)** | AI-powered triage & patient intake system using Gemini API, React 19, Firebase, and Node/Express, with role-based modules for Patient, Nurse, Doctor & Admin |
 | 🏙️ **Civic Connect** | Civic engagement platform project |
-| 🐍 **Python Automation Scripts** | Collection of automation tools built in Python |
 | 🎓 **Student Management System** | Full-stack system for managing student records |
 
 *(Replace `#` above with your actual repo links once pushed to GitHub!)*
