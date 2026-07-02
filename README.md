@@ -45,7 +45,7 @@
 
 | Project | Description |
 |---|---|
-| 🩺 **[MediTriage AI](#)** | AI-powered triage & patient intake system using Gemini API, React 19, Firebase, and Node/Express, with role-based modules for Patient, Nurse, Doctor & Admin |
+| 🩺 **MediTriage AI** | AI-powered triage & patient intake system using Gemini API, React 19, Firebase, and Node/Express, with role-based modules for Patient, Nurse, Doctor & Admin |
 | 🏙️ **Civic Connect** | Civic engagement platform project |
 | 🎓 **Student Management System** | Full-stack system for managing student records |
 
